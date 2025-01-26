@@ -1,3 +1,6 @@
 [submodule "part0"]
 	path = part0
 	url = https://github.com/michall1900/Full-Stack-Open-P0
+[submodule "part1"]
+	path = part1
+	url = https://github.com/michall1900/Full-Stack-Open-P1
