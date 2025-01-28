@@ -4,3 +4,6 @@
 [submodule "part1"]
 	path = part1
 	url = https://github.com/michall1900/Full-Stack-Open-P1
+[submodule "part2"]
+	path = part2
+	url = https://github.com/michall1900/Full-Stack-Open-P2
