@@ -10,3 +10,6 @@
 [submodule "part3"]
 	path = part3
 	url = https://github.com/michall1900/Full-Stack-Open-P3
+[submodule "part4"]
+	path = part4
+	url = https://github.com/michall1900/blog-list-backend
